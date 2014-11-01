@@ -2,7 +2,7 @@
 <?php
 
 	echo "Project Title : Real Estate Project<br/>";
-	echo "Client        : Anand Rathi <br/>";
+	echo "Client        : xxxxxHiddenxxxxx <br/>";
 	echo "Developed By  : Tenzin Kunkyab <br/>";
 
 ?>	
