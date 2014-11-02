@@ -12,8 +12,8 @@ Requirement:
 
 Local Server Configuration/Preferences:
 
-	Database Name: xxxxxxxxx
-	Database User: xxxxxxxxx
+	Database Name: list_db
+	Database User: list_user
 	Database Pwd : xxxxxxxxx
 
 Setup:
