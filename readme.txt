@@ -14,7 +14,7 @@ Local Server Configuration/Preferences:
 
 	Database Name: list_db
 	Database User: list_user
-	Database Pwd : xxxxxxxxx
+	Database Pwd : UsLE4GwAevKsbGQB
 
 Setup:
 
@@ -24,5 +24,4 @@ Setup:
 		localhost/foldername/test_connection.php
 
 For Issues:
-	Raise a Ticket on Github
 	Contact me at ten.kunkyab@gmail.com
