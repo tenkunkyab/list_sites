@@ -21,7 +21,8 @@ Setup:
 	Clone the Git in the htdoc folder
 	Configure the Database/Server
 	Run on the Browser :-
-		localhost/foldername/test_connection.php
+		localhost/foldername/source_files/sys/test_connection.php
+		Please not that the test_connection file is not complete yet.
 
 For Issues:
 	Contact me at ten.kunkyab@gmail.com
