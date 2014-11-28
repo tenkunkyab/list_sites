@@ -2,18 +2,27 @@
 
 class Main extends CI_Controller {
 
-	/*
-		main controller
-	*/
-
 	function __construct(){
 		
 		parent::__construct();
+		$this->load->helper('form');
 
 	}
+
+	/* load the main login page */
 	public function index()
 	{
 		$this->load->view('login');
+	}
+
+	public function login(){
+		// login module
+		$this->load->model('small_qry', '', TRUE);		// load the model
+		// fetch the details from the front-end
+		$uid = $this->input->post('username');
+		$pwd = $this->input->post('password');
+		// check if login/account exists
+		$flag = $this->small_qry->authenticate($uid, $pwd);
 	}
 }
 

@@ -12,17 +12,16 @@ Requirement:
 
 Local Server Configuration/Preferences:
 
-	Database Name: list_db
-	Database User: list_user
-	Database Pwd : UsLE4GwAevKsbGQB
+	Database Name : list_db
+	Database User : list_user
+	Database Pwd  : UsLE4GwAevKsbGQB
+	Database Dump : import_this_db.sql
 
 Setup:
 
 	Clone the Git in the htdoc folder
 	Configure the Database/Server
-	Run on the Browser :-
-		localhost/foldername/source_files/sys/test_connection.php
-		Please not that the test_connection file is not complete yet.
+		
 
 For Issues:
 	Contact me at ten.kunkyab@gmail.com
