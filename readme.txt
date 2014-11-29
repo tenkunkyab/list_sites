@@ -12,10 +12,8 @@ Requirement:
 
 Local Server Configuration/Preferences:
 
-	Database Name : list_db
-	Database User : list_user
-	Database Pwd  : UsLE4GwAevKsbGQB
-	Database Dump : import_this_db.sql
+	Configure the localhost
+	update the details in /config/database.php
 
 Setup:
 
